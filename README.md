@@ -1,6 +1,6 @@
 ### 👋 
 
-Hi! I'm [@mph4](https://github.com/mph4), GitHub's Chief Technology Officer. Prior to joining GitHub, I was the CISO at [Cisco](https://www.cisco.com). I joined Cisco in 2018 when they acquired [Duo Security](https://www.duo.com), where I was the Vice President of Security. Earlier in my career, I had the privilege of working as a Sr. Member of the Technical Staff at [CERT/CC](https://cert.org).
+Hi! I'm [@mph4](https://github.com/mph4), Chief Information Security Officer at [General Motors](https://www.gm.com). Previously, I was CTO at [GitHub](https://github.com). Prior to joining GitHub, I was the CISO at [Cisco](https://www.cisco.com). I joined Cisco in 2018 when they acquired [Duo Security](https://www.duo.com), where I was the Vice President of Security. Earlier in my career, I had the privilege of working as a Sr. Member of the Technical Staff at [CERT/CC](https://cert.org).
 
 
 <!--
